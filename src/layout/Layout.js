@@ -10,8 +10,6 @@ import Section6 from "../components/Section6";
 import Section7 from "../components/Section7";
 import Footer from "../components/Footer";
 
-import Ewy from "../components/Ewy";
-
 const Layout = () => {
   return (
     <>
@@ -25,7 +23,6 @@ const Layout = () => {
       <Section6 />
       <Section7 />
       <Footer />
-      {/* <Ewy /> */}
     </>
   );
 };
